@@ -99,7 +99,6 @@ If you find these models useful, consider supporting development:
 - **GitHub Sponsors:** [https://github.com/sponsors/tapsin](https://github.com/sponsors/tapsin)
 - **Ko-fi:** [https://ko-fi.com/tapsin](https://ko-fi.com/tapsin)
 - **Patreon:** [https://patreon.com/tapsin](https://patreon.com/tapsin)
-- **BTC:** `bc1qxxxx...` (add your address)
 - **USDT (TRC20)**: `TYCK6ZyMS6UDt787foPH2QwFuvkdqMw1Jv`
 - **USDT (BSC20)**: `0x15aac92a1945ddbe5c79304bfa388d6be99b26a3`
 
