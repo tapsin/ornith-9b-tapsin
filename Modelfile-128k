@@ -1,0 +1,6 @@
+FROM ./models/ornith-9b-tapsin-Q4_K_M.gguf
+FROM ./models/ornith-9b-tapsin-mmproj.gguf
+TEMPLATE {{ .Prompt }}
+PARAMETER num_ctx 131072
+PARAMETER num_gpu 999
+PARAMETER num_predict 8192
